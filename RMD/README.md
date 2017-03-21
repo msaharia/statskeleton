@@ -1,3 +1,3 @@
 # R Markdown 
 
-Store all the R Markdown files in this folder
+Stores all the R Markdown files in this folder
